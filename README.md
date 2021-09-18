@@ -1,1 +1,2 @@
-# ece273-project
+# Federated Learning
+SP2021 ECE273 Project
